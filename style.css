@@ -57,7 +57,7 @@ body {
 .main-menu ul ul {
     padding-left: 0;
     position: absolute;
-    top: 112%;
+    top: 110%;
     left: 0;
     min-width: 225px;
     display: none;
