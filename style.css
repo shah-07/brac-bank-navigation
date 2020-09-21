@@ -6,6 +6,7 @@ body {
 .main-menu {
     background: #004C9F;
     min-height: 37px;
+    position: relative;
 }
 .main-menu::after {
     content: '';
@@ -17,6 +18,8 @@ body {
     list-style: none;
     padding: 5px 0;
     padding-bottom: 5px;
+    position: absolute;
+    left: 25%;
 }
 .main-menu> ul> li {
     float: left;
